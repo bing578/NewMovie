@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
   [super viewDidLoad];
+    
+    NSLog(@"bingege is a great man,you know!");
   // Do any additional setup after loading the view, typically from a nib.
 }
 - (IBAction)sendRequest2:(id)sender {
